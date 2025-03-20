@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-2" value="构建延时参数与岩体GSI指标、纵波速度(Vp)、地质强度因子(GSI)的量化关系式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
