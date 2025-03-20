@@ -7,7 +7,7 @@
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-1" value="数值仿真模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mXpQyvW3Cft1YOXNOvXy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-2" value="ANSYS/LS-DYNA建立三维地质实体模型（含断层/节理DFN网络）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
