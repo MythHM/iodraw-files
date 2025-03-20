@@ -13,6 +13,9 @@
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-2" value="ANSYS/LS-DYNA建立三维地质实体模型（含断层/节理DFN网络）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mXpQyvW3Cft1YOXNOvXy-3" target="mXpQyvW3Cft1YOXNOvXy-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-3" value="材料本构：RHT模型（花岗岩）、HJC模型（页岩）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
         </mxCell>
