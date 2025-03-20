@@ -53,6 +53,9 @@
             <mxPoint x="369.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mXpQyvW3Cft1YOXNOvXy-16" target="mXpQyvW3Cft1YOXNOvXy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-16" value="爆破裂隙分形维数计算（Matlab图像处理）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -115,6 +118,9 @@
             <mxPoint x="89.25" y="550" as="sourcePoint" />
             <mxPoint x="89.25" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-37" value="优化输出：推荐延时参数矩阵（含3σ置信区间）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
