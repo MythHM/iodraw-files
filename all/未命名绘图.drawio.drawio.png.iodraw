@@ -16,11 +16,21 @@
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-2" value="数据融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-4" value="岩石测试数据库（UCS、BTS、BRI等12项参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-5" value="模拟数据集（3×10⁴组LS-DYNA运算结果）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-6" value="现场监测大数据（包括时序数据/图像数据）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
@@ -46,7 +56,7 @@
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="360" as="sourcePoint" />
-            <mxPoint x="270" y="330" as="targetPoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
