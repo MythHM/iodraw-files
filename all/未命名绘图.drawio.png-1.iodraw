@@ -19,6 +19,11 @@
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-6" value="参数设置：延期时间Δt（0-500ms）、装药结构（不耦合系数K=1-3）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mXpQyvW3Cft1YOXNOvXy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mXpQyvW3Cft1YOXNOvXy-7" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,6 +31,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="270" as="sourcePoint" />
             <mxPoint x="370" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mXpQyvW3Cft1YOXNOvXy-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
