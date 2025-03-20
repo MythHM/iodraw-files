@@ -53,7 +53,7 @@
         <mxCell id="5bsdwhez_dU63ZZKiQTK-14" value="3D激光扫描仪（爆前/爆后点云比对）&lt;div&gt;&lt;br&gt;&lt;div&gt;MEMS振动传感器阵列（50Hz采样）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;无人机多光谱成像（爆堆粒径分布分析）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="5bsdwhez_dU63ZZKiQTK-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bsdwhez_dU63ZZKiQTK-15" value="振动速度峰值向量（XYZ三向）&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;岩块运动轨迹（高速摄影+OpenCV追踪）&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;空气冲击波超压（BST-4型传感器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
