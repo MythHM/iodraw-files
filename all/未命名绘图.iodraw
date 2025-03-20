@@ -65,6 +65,9 @@
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-20" value="推导层状岩体延时窗口计算方程（引入节理面能量反射系数α）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-21" value="裂隙扩展阈值模型、延时-破碎度响应曲线（R²≥0.85）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
