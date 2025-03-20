@@ -86,6 +86,11 @@
             <mxPoint x="379.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-22" value="特征工程：提取17维度地质特征向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -97,6 +102,12 @@
         </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-26" value="决策输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="570" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
