@@ -13,7 +13,7 @@
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-0" value="建立理论模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="40" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZZF2BceVYKqWh6yOvsMN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-1" value="整合岩石力学（霍克-布朗准则）、爆炸力学（C-J理论）、波动理论（应力波叠加原理）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
