@@ -38,8 +38,14 @@
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-0" value="建立理论模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="40" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZZF2BceVYKqWh6yOvsMN-1" target="ZZF2BceVYKqWh6yOvsMN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-1" value="整合岩石力学（霍克-布朗准则）、爆炸力学（C-J理论）、波动理论（应力波叠加原理）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZZF2BceVYKqWh6yOvsMN-2" target="ZZF2BceVYKqWh6yOvsMN-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-2" value="构建延时参数与岩体GSI指标、纵波速度(Vp)、地质强度因子(GSI)的量化关系式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="130" width="120" height="80" as="geometry" />
