@@ -27,9 +27,9 @@
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-5" value="模拟数据集（3×10⁴组LS-DYNA运算结果）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJv3vtFtwyF7YbFGHTUD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-6" target="SJv3vtFtwyF7YbFGHTUD-14">
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="370" as="targetPoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-6" value="现场监测大数据（包括时序数据/图像数据）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
