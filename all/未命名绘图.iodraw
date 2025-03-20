@@ -8,8 +8,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="25" />
-              <mxPoint x="151" y="25" />
+              <mxPoint x="150" y="20" />
+              <mxPoint x="150" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,6 +42,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="20" as="sourcePoint" />
             <mxPoint x="280" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="60" as="sourcePoint" />
+            <mxPoint x="250" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
