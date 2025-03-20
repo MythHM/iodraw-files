@@ -24,6 +24,9 @@
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-4" value="岩石测试数据库（UCS、BTS、BRI等12项参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-5" target="SJv3vtFtwyF7YbFGHTUD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-5" value="模拟数据集（3×10⁴组LS-DYNA运算结果）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
             <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJv3vtFtwyF7YbFGHTUD-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-14" value="机器学习建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
