@@ -68,6 +68,9 @@
             <mxPoint x="280" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZZF2BceVYKqWh6yOvsMN-20" target="ZZF2BceVYKqWh6yOvsMN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-20" value="推导层状岩体延时窗口计算方程（引入节理面能量反射系数α）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
