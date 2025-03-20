@@ -26,6 +26,9 @@
         <mxCell id="5bsdwhez_dU63ZZKiQTK-5" value="布设监测网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5bsdwhez_dU63ZZKiQTK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bsdwhez_dU63ZZKiQTK-6" target="5bsdwhez_dU63ZZKiQTK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5bsdwhez_dU63ZZKiQTK-6" value="选取典型地质单元（节理密度Jv&gt;8条/m³，RQD&lt;45%）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
