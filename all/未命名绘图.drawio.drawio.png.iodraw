@@ -21,9 +21,6 @@
             <mxPoint x="80" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJv3vtFtwyF7YbFGHTUD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJv3vtFtwyF7YbFGHTUD-4" target="SJv3vtFtwyF7YbFGHTUD-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-4" value="岩石测试数据库（UCS、BTS、BRI等12项参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,8 +65,23 @@
         <mxCell id="SJv3vtFtwyF7YbFGHTUD-14" value="机器学习建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJv3vtFtwyF7YbFGHTUD-17" value="岩石测试数据库（UCS、BTS、BRI等12项参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.5" y="270" as="sourcePoint" />
+            <mxPoint x="89.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJv3vtFtwyF7YbFGHTUD-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="270" as="sourcePoint" />
+            <mxPoint x="389.5" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
