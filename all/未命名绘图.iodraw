@@ -15,6 +15,11 @@
         <mxCell id="KBmLZByNfRHWK8hqTcjT-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Inter, ui-sans-serif, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve-breaks;&quot;&gt;&lt;b&gt;理论分析体系搭建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="-60" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZZF2BceVYKqWh6yOvsMN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZZF2BceVYKqWh6yOvsMN-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZZF2BceVYKqWh6yOvsMN-0" value="建立理论模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="40" width="120" height="50" as="geometry" />
         </mxCell>
